@@ -5,3 +5,4 @@ It contains:<br>
 A. How to use the convertor.<br>
 B. How to verify MassBank files.<br>
 C. How to upload files to MassBank dataset.
+(Seems github action can make this repo into online tool. I'm learning "action" now.)
